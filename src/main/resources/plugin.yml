@@ -1,0 +1,10 @@
+name: SupporterCommands
+version: 1.0
+main: com.invertedowl.honeypot.Honeypot
+api-version: 1.18
+authors: [ InvertedOwl ]
+description: Adds commands for supporters of the HoneyPot server to use
+website: https://discord.gg/9XUyBMpMJz
+
+commands:
+  customSupporterItem:
